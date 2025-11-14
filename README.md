@@ -1,101 +1,104 @@
-# 👋 Hi, I'm **Eduard Moreno**
-
-### 🚀 Backend Developer | Python • Django • Node.js • Express • Microservices
-
-Backend developer with more than two years of experience building **REST APIs**, **microservices**, and delivering scalable solutions. I have led technical teams and collaborated in agile environments, always prioritizing **quality**, **security**, and **performance**.
-
-I specialize in Python (Django) and JavaScript (Node.js, Express), with strong experience using Docker, Git, and Linux environments. I enjoy solving complex problems and creating systems that make processes more efficient and reliable.
+<!-- Banner principal -->
+<h1 align="center">🚀 Backend Developer — Eduar Moreno</h1>
+<p align="center">
+  <strong>Python • Django • Node.js • Express • Microservices • Docker</strong>
+</p>
 
 ---
 
-## 🧩 **About Me**
-- 💡 Passionate about backend architecture, clean code, and scalable design.  
-- 🧪 Experience in NLP and ML integration (T5 model for code generation).  
-- 👥 Team leader in academic and professional projects.  
-- 🔧 Strong focus on optimization and algorithmic thinking.  
-- 🌍 Based in Villavicencio, Colombia.  
-- ✉️ Contact: **eduarmoreno626@gmail.com**  
+## 👋 About Me
+
+Backend developer with experience in designing **scalable architectures**, **REST APIs**, and **microservices**.  
+I focus on writing clean, secure, and efficient code while solving real-world problems.
+
+🔥 Passionate about backend development, NLP, and building high-performance systems.  
+📍 Villavicencio, Colombia  
+📧 **eduarmoreno626@gmail.com**
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🛠️ Tech Stack
 
-### **Backend & Architecture**
-- **Python**, **Django**, **Node.js**, **Express.js**
-- **REST APIs**, **Microservices**
-- **Apache Kafka**, **Redis**
-- **Algorithms & Optimization**
+### **Backend**
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
 
-### **Frontend**
-- **Vue.js**
-- **TailwindCSS**
-
-### **Databases**
-- **PostgreSQL**
-- SQL optimization and relational modeling
+### **Databases & Messaging**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-D92E21?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+</p>
 
 ### **DevOps & Tools**
-- **Docker**
-- **Git & GitHub**
-- **Ubuntu / Linux**
+<p>
+  <img src="https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-## 🧪 **Professional Experience**
+## 💼 Professional Experience
 
 ### **Backend Developer — DSD Consulting & Coaching S.A.S**  
 🗓 *September 2024 - Present*  
-- Led the migration from a **monolithic architecture** to **microservices**.  
-- Developed **REST APIs** for internal system integrations.  
-- Built an internal management system for **El Pijao**, a parking service provider.  
-- Improved internal processes using algorithms and automation.
+- Migration from **monolithic** architecture to **microservices**  
+- Development of **REST APIs** for internal integrations  
+- Implementation of an internal management system for **El Pijao**  
+- Optimization of business processes with algorithms  
 
 ---
 
 ### **Research Project Assistant — Cooperative University of Colombia**  
 🗓 *February 2024 - May 2025*  
-- Project leader and main developer.  
-- Integrated a **T5 text-to-text language model** to automatically translate flowcharts into PSINT pseudocode.  
-- Applied **NLP** and **Machine Learning** techniques for educational computational tools.
+- Integration of a **T5 NLP model** for automatic pseudocode generation  
+- Application of **Machine Learning** & **NLP**  
+- Leadership of academic research project  
 
 ---
 
 ### **Freelance Developer**  
 🗓 *January 2022 - December 2024*  
-- Designed and developed custom web solutions for multiple clients.  
-- Built and integrated full-stack solutions using **Django**, **Vue.js**, and external APIs.  
-- Deployed custom systems based on clients' business needs.
+- Custom web systems using **Django**, **Vue.js**, and APIs  
+- End-to-end development and deployment  
+- Tailored solutions for multiple clients  
 
 ---
 
-## 🎓 **Education**
-
-### **Cooperative University of Colombia**  
-📚 *Systems Engineering*  
-🗓 August 2020 - May 2025  
-
-### **Udemy — Technology Degree**  
-🗓 June 2024 - August 2024  
+## 🎓 Education
+- **Systems Engineering — Cooperative University of Colombia (2020–2025)**  
+- **Udemy Technology Degree — 2024**
 
 ---
 
-## 🌍 **Languages**
-- 🇪🇸 Spanish — Native  
-- 🇬🇧 English — Intermediate  
+## 🌍 Languages
+- **Spanish:** Native  
+- **English:** Intermediate  
 
 ---
 
-## ⚙️ **Additional Information**
-- 🚗 A2 Driving license  
-- 🚙 Own vehicle  
-- ✈️ Availability to travel  
-- 📦 Willingness to relocate  
+# 📊 GitHub Stats
+
+<div align="center">
+
+### ⭐ Performance Overview  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mao1304&show_icons=true&theme=radical&rank_icon=github"/>
+
+### 🔥 Most Used Languages  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mao1304&layout=compact&theme=radical"/>
+
+### 🚀 Streak (actividad)  
+<img src="https://streak-stats.demolab.com?user=mao1304&theme=radical&mode=weekly"/>
+
+</div>
 
 ---
 
-## 📈 **GitHub Stats (optional)**  
-> *(Puedo activarte esto con tu nombre de usuario cuando me lo digas)*
-
-```md
-![Eduar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+## 📫 Connect
+📧 **eduarmoreno626@gmail.com**  
+📍 Villavicencio, Colombia  
