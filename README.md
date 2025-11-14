@@ -1,5 +1,5 @@
 <!-- Banner principal -->
-<h1 align="center">🚀 Backend Developer — Eduar Moreno</h1>
+<h1 align="center">🚀 Backend Developer — Eduard Moreno</h1>
 <p align="center">
   <strong>Python • Django • Node.js • Express • Microservices • Docker</strong>
 </p>
@@ -89,8 +89,6 @@ I focus on writing clean, secure, and efficient code while solving real-world pr
 ### ⭐ Performance Overview  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mao1304&show_icons=true&theme=radical&rank_icon=github"/>
 
-### 🔥 Most Used Languages  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mao1304&layout=compact&theme=radical"/>
 
 ### 🚀 Streak (actividad)  
 <img src="https://streak-stats.demolab.com?user=mao1304&theme=radical&mode=weekly"/>
